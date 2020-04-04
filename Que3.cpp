@@ -1,12 +1,5 @@
 #include<bits/stdc++.h>
-#include <ext/pb_ds/assoc_container.hpp>
-#include <ext/pb_ds/tree_policy.hpp> 
-#include <functional>
 using namespace std;
-#define int long long
-#define double long double
-#define FAST ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
-#define mod 998244353
 signed main(){
 	FAST
 	int t;
