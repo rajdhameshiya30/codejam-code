@@ -1,2 +1,2 @@
 # codejam-code
-this are the codes of codejam competition
+Hare are the codes of codejam competition
